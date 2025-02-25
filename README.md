@@ -7,5 +7,5 @@ detaction, Stemming and Lemmatization.
   <li>Implement word-embedding and TF-IDF vectors in Natural language Processing</li>
   <li>Generate recursive set of sentences using Context Free Grammar 
 Identify the word senses using "synset" in NLTK</li>
-
+<li>Inlcude models BERT, Bag of words,</li>
 </ol>
